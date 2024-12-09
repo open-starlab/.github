@@ -1,5 +1,9 @@
 # OpenSTARLab: Open Spatio-Temporal Agent Research Platform
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/open-starlab/.github/main/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
+</div>
+
 ## Introduction
 **OpenSTARLab** is an open-source research platform designed to democratize spatio-temporal agent data analysis across sports and other dynamic multi-agent systems. Initially applied in soccer, OpenSTARLab provides tools for event annotation, data standardization, and predictive modeling using deep learning and reinforcement learning frameworks.
 
