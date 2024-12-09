@@ -1,12 +1,30 @@
-## Hi there 👋
+# OpenSTARLab: Open Spatio-Temporal Agent Research Platform
 
-<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/open-starlab/.github/main/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
+</div>
 
-**Here are some ideas to get you started:**
+## Introduction
+**OpenSTARLab** is an open-source research platform designed to democratize spatio-temporal agent data analysis across sports and other dynamic multi-agent systems. Initially applied in soccer, OpenSTARLab provides tools for event annotation, data standardization, and predictive modeling using deep learning and reinforcement learning frameworks.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Vision
+We believe in making cutting-edge analytics accessible to everyone, from researchers to analysts, by providing open-source tools that overcome traditional data limitations in sports analytics. Our platform enables data collection from video, structured data, and simulated environments, advancing both academic research and real-world applications.
+
+## Core Principles
+- **Accessibility**: Open tools for data preparation, model training, and analysis.
+- **Transparency**: Reproducible research through well-documented tools.
+- **Interdisciplinary Collaboration**: Bridging computer science, sports analytics, and data science.
+- **Scalability**: Designed for both academic studies and real-world applications in various domains.
+
+## Why OpenSTARLab?
+
+### Challenges We Address
+- **Data Accessibility**: Limited access to high-quality sports data.
+- **Data Standardization**: Inconsistent data formats across providers.
+- **Advanced Modeling**: Need for complex modeling pipelines, such as deep learning and reinforcement learning.
+
+## Key Components
+1. **STE Label Tool**: Intuitive event annotation from videos.
+2. **Preprocessing Package**: Standardizes data into a unified format (UIED).
+3. **Event Modeling Package**: Supports state-of-the-art prediction models.
+4. **RLearn Package**: Multi-agent deep reinforcement learning tools.
