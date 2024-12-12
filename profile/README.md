@@ -1,4 +1,5 @@
 # OpenSTARLab: Open Spatio-Temporal Agent Research Platform
+[![Documentation Status](https://readthedocs.org/projects/openstarlab/badge/?version=latest)](https://openstarlab.readthedocs.io/en/latest/?badge=latest)
 
 <div align="center">
   <img src="https://github.com/open-starlab/.github/blob/main/profile/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
