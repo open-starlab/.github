@@ -1,7 +1,7 @@
 # OpenSTARLab: Open Spatio-Temporal Agent Research Platform
 [![Documentation Status](https://readthedocs.org/projects/openstarlab/badge/?version=latest)](https://openstarlab.readthedocs.io/en/latest/?badge=latest)
 [![ArXiv](https://img.shields.io/badge/ArXiv-2502.02785-b31b1b?logo=arxiv)](https://arxiv.org/abs/2502.02785)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/yDrcywCs)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/PnH2MDDaCf)
 
 <div align="center">
   <img src="https://github.com/open-starlab/.github/blob/main/profile/overview_openstarlab.png" alt="Overview of OpenSTARLab" width="600">
